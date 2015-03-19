@@ -52,3 +52,6 @@ gem "simple_form"
 
 # Using Devise
 gem "devise"
+
+#Using Auto HTML
+gem "auto_html"
